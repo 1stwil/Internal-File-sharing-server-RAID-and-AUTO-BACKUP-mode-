@@ -97,6 +97,7 @@ Located at `/usr/local/bin/backup-raid.sh`:
 - Incremental backup with hardlinks
 - Comprehensive logging to `/var/log/backup-raid.log`
 - Automatic cleanup of expired snapshots
+- 14 Days of file versioning
 
 ### Cronjob Schedule
 ```
